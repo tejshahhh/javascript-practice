@@ -1,0 +1,1 @@
+console.log("Day 1 — Starting JavaScript Journey 🚀");
